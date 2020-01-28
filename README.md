@@ -4,7 +4,7 @@ Zoo is a Typescript GraphQL API for Internet-of-Things devices, it is intended a
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Clone the repo and install dependencies.
 
 ```bash
 git clone https://github.com/shadak/Zoo
